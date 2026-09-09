@@ -7,7 +7,7 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How It Works
+## How it works
 
 This design is a fundamental 1D Pong game built entirely with digital logic gates and flip-flops. The inputs consist of three main buttons (Player 1, Player 2, and Start), and the output is displayed across a row of 8 LEDs. When a game begins, a single LED lights up to represent the ball. Players must press their respective buttons at the exact right moment to bounce the ball back and avoid losing.
 
