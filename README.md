@@ -2,7 +2,7 @@
 
 # 1D Pong Game - Tiny Tapeout
 
-![1D Pong Game Design](docs/1Dpong.png)
+![1D Pong Game Design](/blob/main/docs/1DPong.png)
 
 - [Read the official documentation for this project](docs/info.md)
 
