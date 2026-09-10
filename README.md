@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# 1D Pong Game - Tiny Tapeout
+# 1D Pong Game - Wokwi - Tiny Tapeout
 
 ![1D Pong Game Design](docs/1DPong.png)
 
