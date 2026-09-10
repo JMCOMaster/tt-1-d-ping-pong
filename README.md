@@ -5,6 +5,7 @@
 ![1D Pong Game Design](docs/1DPong.png)
 
 - [Read the official documentation for this project](docs/info.md)
+- [Preview the project in Wokwi](https://wokwi.com/projects/474661495515425793)
 
 ## Overview
 
